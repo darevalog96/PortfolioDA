@@ -1,51 +1,56 @@
-Diego Arevalo's Professional Portfolio
-Welcome to the repository for my personal portfolio website. This site serves as a central hub for my professional journey, showcasing my transition from a Lead Business Analyst into the world of technology, with a dual focus on SaaS Development and Data & Business Intelligence.
+# Diego Arévalo — Data & Analytics Portfolio
 
-This project was built with HTML and Tailwind CSS and is hosted on GitHub Pages.
+Source for **[darevalog96.github.io/PortfolioDA](https://darevalog96.github.io/PortfolioDA/)** — built with HTML and Tailwind CSS, hosted on GitHub Pages.
 
-View the Live Portfolio Here
-(Note: Remember to replace your-username with your actual GitHub username)
+---
 
-About This Portfolio
-As a Business Analyst, I spent years understanding the "why" behind business challenges. That experience gave me a unique perspective on technology—one that is deeply rooted in user needs and business impact. This portfolio documents my journey into building the "how."
+## What I do
 
-The projects featured here are a mix of practical applications and data-driven analyses, reflecting my passion for creating complete, end-to-end solutions.
+I'm a Senior Manager of Data & Business Analytics for a US direct-to-consumer brand, working remotely from Guatemala City. I own the analytics layer end to end: Shopify, NetSuite, Klaviyo, GA4 and affiliate data consolidated in Snowflake, modelled with dbt, and delivered through Looker and internally hosted dashboards.
 
-Technologies & Skills
-My skill set is tailored to bridge the gap between business strategy and technical implementation.
+Six years in analytics. Before this I led client analytics at TELUS International, where I built global data warehouses in BigQuery and Snowflake and moved reporting from manual extracts onto automated pipelines.
 
-SaaS Development:
+I started as a business analyst, which means I spent years working out *why* something mattered before anyone wrote a query. That's still how I work. The number is the easy part — what someone decides because of it is the job.
 
-Languages: Java, JavaScript (ES6+), Python, PHP
+---
 
-Platforms: ServiceNow, Salesforce (learning)
+## Projects
 
-Web Technologies: HTML5, CSS3, REST APIs, SOAP
+<!-- FILL THIS IN. Two rules, both from what actually gets read:
+     1. Title each project with the QUESTION it answers, not the tools it used.
+        "Which variants should we stop stocking?" beats "Retail Sales Analysis".
+     2. Two lines each: what the question was, and what you found or built.
+     Delete this comment when you've filled it in. -->
 
-Frameworks: Spring Boot, Flask
+### [Project name — phrase it as a question]
+One line on the business question. One line on what you found or built, with a number in it if you have one.
+`Snowflake` `dbt` `Looker` — [repo](#) · [live](#)
 
-Data & Business Intelligence:
+### [Project name — phrase it as a question]
+One line on the business question. One line on what you found or built.
+`Python` `SQL` — [repo](#) · [live](#)
 
-Data Analysis: SQL (Advanced), Python (Pandas)
+### [Project name — phrase it as a question]
+One line on the business question. One line on what you found or built.
+`JavaScript` `HTML` — [repo](#) · [live](#)
 
-Visualization: Tableau, Power BI, D3.js (basics)
+---
 
-Databases: PostgreSQL, MySQL
+## Stack
 
-Processes: ETL (Extract, Transform, Load), Data Modeling
+**Data & modelling** — SQL (advanced), Python (pandas), Snowflake, dbt, BigQuery, PostgreSQL, MySQL, ETL/ELT design, dimensional modelling
 
-Projects
-This portfolio is a living document and will be updated regularly with new work. The projects are categorized into two main areas:
+**BI & visualisation** — Looker, Tableau, Power BI, custom dashboards in HTML/JavaScript
 
-1. SaaS Development Projects
-This section contains custom applications, scripts, and integrations built for or on top of SaaS platforms. The focus is on automation, efficiency, and solving specific business process challenges.
+**Commerce systems** — Shopify, NetSuite, Klaviyo, GA4
 
-2. Data & BI Dashboard Projects
-This section showcases my ability to work with data. You will find interactive dashboards, data analyses, and visualizations that aim to uncover trends and provide actionable insights from complex datasets.
+**Engineering** — JavaScript (ES6+), PHP, REST APIs, Git, GitHub Pages, scheduled jobs with validation gates before publication
 
-Contact
-I'm always open to discussing new opportunities and interesting projects. Feel free to connect with me:
+---
 
-LinkedIn: www.linkedin.com/in/diego-arevalo-3787471b4
+## Contact
 
-Email: diegorenearevalo@gmail.com
+- **LinkedIn** — [diego-arevalo-3787471b4](https://www.linkedin.com/in/diego-arevalo-3787471b4)
+- **Email** — diegorenearevalo@gmail.com
+
+Open to conversations about DTC and e-commerce analytics work.
